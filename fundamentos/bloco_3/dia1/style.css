@@ -1,0 +1,30 @@
+
+            h1{
+                font-size: 3em;
+            }
+            body{
+                background-color:rgb(230, 330, 100);
+                
+            }
+            h2 {
+                color:blueviolet;
+                font-size: 2em;
+                font-style: italic;
+            }
+            #paragrafo{
+                background-color:aquamarine;
+                font-family: Arial, Helvetica, sans-serif;
+                line-height:30px;
+                text-align:center;
+            }
+            .lista{
+                background-color: black;
+                color:hotpink;
+                font-size: 20px;
+                line-height: 20px;
+                font-weight: bold;
+                text-decoration:underline;
+            }
+            img{
+                border-radius: 3%;
+            }
