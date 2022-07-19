@@ -27,7 +27,6 @@
                 text-decoration:underline;
                 width:70px;
                 padding-left: 220px;
-                border-width: ;
             }
             img{
                 border-radius: 3%;
@@ -40,5 +39,15 @@
                 overflow: auto;
                 height: 80px;
                 background-color: white;
+            }
+            #dog{
+                position: absolute;
+                width: 500px;
+            }
+            #oculos{
+                position:absolute;
+                width: 100px;
+                top: 870px;
+                left: 200px;
             }
         
