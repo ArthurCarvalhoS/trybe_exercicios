@@ -16,6 +16,7 @@
                 font-family: Arial, Helvetica, sans-serif;
                 line-height:30px;
                 text-align:center;
+                width: 500px;
             }
             .lista{
                 background-color: black;
@@ -24,7 +25,20 @@
                 line-height: 20px;
                 font-weight: bold;
                 text-decoration:underline;
+                width:70px;
+                padding-left: 220px;
+                border-width: ;
             }
             img{
                 border-radius: 3%;
             }
+            #span{
+                color:firebrick;
+            }
+            #exp{
+                width: 500px;
+                overflow: auto;
+                height: 80px;
+                background-color: white;
+            }
+        
